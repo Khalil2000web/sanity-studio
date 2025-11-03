@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "sanity": "^3.60.0",
-    "@sanity/vision": "^3.60.0",
-    "@sanity/structure": "^3.60.0"
+    "@sanity/vision": "^3.60.0"
   }
 }
